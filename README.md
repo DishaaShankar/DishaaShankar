@@ -1,27 +1,109 @@
 # Hi, I'm Disha 👋
 
-I'm an MCA graduate from RV College of Engineering, Bengaluru, with a strong interest in data, machine learning, and backend development.
+### Aspiring Data Analyst | Python • SQL • Power BI | AI & Machine Learning | MCA @ RV College of Engineering (RVCE)
 
-## About Me
-- 🎓 MCA (2023–2025), RV College of Engineering  
-- 💻 Skills: Python, SQL, Java/Spring Boot, HTML, CSS  
-- 🤖 Interested in: Data Analytics, ML, Backend APIs, Technical Product roles  
+Welcome to my GitHub! I'm passionate about transforming raw data into meaningful insights and building data-driven solutions. I enjoy working on real-world problems using Data Analytics, Machine Learning, and Business Intelligence tools.
 
-## Projects
-- 🖼 **Smart Image Retrieval Using Image Analytics** 
-  Deep learning–based system to retrieve visually and semantically similar images with a Streamlit UI and evaluation using Precision, Recall, and mAP.
+---
 
-- 🏢 **Employee Leave Management System**  
-  Spring Boot application with Spring Data JPA, Hibernate, MySQL and Thymeleaf/Bootstrap for managing leave requests, approvals, and balances.
+## 👩‍💻 About Me
 
-- 🚗 **Car Purchase Prediction (Internship)**  
-  Built ML models (SVM, Gradient Boosting) for predicting car purchase decisions, including data preprocessing, EDA, and visualizations.
+- 🎓 MCA Graduate (2023–2025) from **RV College of Engineering (RVCE), Bengaluru**
+- 📊 Aspiring **Data Analyst** with a strong foundation in Python, SQL, Power BI, and Machine Learning
+- 💡 Passionate about solving business problems using data and analytics
+- 🚀 Currently building my portfolio with real-world Data Analytics and AI projects
+- 🌱 Continuously learning advanced SQL, Power BI, Statistics, and Generative AI
 
-## What I'm Doing Now
-- Improving my problem‑solving in Python and SQL  
-- Organizing my academic and internship projects on GitHub  
-- Exploring roles in Data, Software Development, and Technical Product/Support
+---
 
-## How to Reach Me
-- 📧 Email: disha250118@gmail.com    
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- SQL
+- Java
+
+### Data Analytics
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+
+### Machine Learning
+- Scikit-learn
+- Deep Learning
+- SVM
+- Gradient Boosting
+
+### Databases
+- MySQL
+
+### Web Technologies
+- HTML
+- CSS
+- Spring Boot
+- Thymeleaf
+- Bootstrap
+
+### Tools
+- Git
+- GitHub
+- Streamlit
+
+---
+
+## 📂 Featured Projects
+
+### 🖼️ Smart Image Retrieval Using Image Analytics
+- Developed a deep learning-based image retrieval system using Hypergraph Ranking.
+- Built an interactive Streamlit application for image search.
+- Achieved a **Mean Average Precision (mAP) of 0.978**.
+
+---
+
+### 🏢 Employee Leave Management System
+- Developed a full-stack Leave Management System using Spring Boot.
+- Implemented role-based access control and REST APIs.
+- Integrated MySQL database with Hibernate and Spring Data JPA.
+
+---
+
+### 🚗 Car Purchase Prediction
+- Built predictive Machine Learning models using SVM and Gradient Boosting.
+- Performed Data Cleaning, Exploratory Data Analysis (EDA), and Feature Engineering.
+- Achieved **90% prediction accuracy**.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL for Data Analytics
+- Power BI Dashboard Design
+- Python for Data Analysis
+- Statistics for Data Science
+- Generative AI & AI Agents
+
+---
+
+## 🎯 Career Goals for 2026
+
+- 📊 Build 20+ Data Analytics Projects
+- 📈 Master SQL, Power BI, Python, and Excel
+- 🤖 Learn Generative AI and AI Agents
+- 🌐 Build a professional Portfolio Website
+- ✍️ Publish technical blogs on Medium
+- 💼 Secure a Data Analyst role at a leading product or consulting company
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **dishaashankarr@gmail.com**
 - 📍 Bengaluru, India
+- 💼 LinkedIn: *(Coming Soon)*
+- 🌐 Portfolio: *(Coming Soon)*
+- ✍️ Medium: *(Coming Soon)*
+
+---
+
+⭐ *"Without data, you're just another person with an opinion."* — W. Edwards Deming
